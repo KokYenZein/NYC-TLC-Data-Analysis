@@ -12,6 +12,16 @@ The Uber NYC TLC Dataset describes Yellow and green taxi trip records include fi
 ![project process.jpg](https://github.com/KokYenZein/NYC-TLC-Data-Analysis/blob/main/NYC%20TLC%20Data%20Model.jpeg?raw=true)
 
 # Data Model (Fact Table, ER Diagram)
-![NYC TLC Data Model.jpeg]
+![NYC TLC Data Model.jpeg](https://github.com/KokYenZein/NYC-TLC-Data-Analysis/blob/main/project%20process.jpg?raw=true)
 
-# Technology
+# Tools and Technologies
+* Programming Language - Python, Bash
+  * Pandas
+* Google Cloud Platform
+  * Cloud Storage
+  * Compute Engine
+    * VM instance
+  * VPC network
+  * BigQuery
+* Mage: https://www.mage.ai/
+* Looker Studio

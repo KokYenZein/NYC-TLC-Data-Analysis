@@ -5,13 +5,13 @@ This project aims to perform data analysis and data engineering on the Uber NYC 
 # Data
 The Uber NYC TLC Dataset describes Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP).
 
-More information: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+* More information: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+* Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 # Process
-
+![project process.jpg]
 
 # Data Model (Fact Table, ER Diagram)
-
+![NYC TLC Data Model.jpeg]
 
 # Technology

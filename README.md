@@ -9,7 +9,7 @@ The Uber NYC TLC Dataset describes Yellow and green taxi trip records include fi
 * Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 # Process
-![project process.jpg]
+![[project process.jpg](https://github.com/KokYenZein/NYC-TLC-Data-Analysis/blob/main/NYC%20TLC%20Data%20Model.jpeg?raw=true)https://github.com/KokYenZein/NYC-TLC-Data-Analysis/blob/main/NYC%20TLC%20Data%20Model.jpeg?raw=true]
 
 # Data Model (Fact Table, ER Diagram)
 ![NYC TLC Data Model.jpeg]

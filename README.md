@@ -1,4 +1,4 @@
-# Uber NYC TLC Data Analysis/Eng8ineering Project
+# Uber NYC TLC Data Analysis/Engineering Project
 
 This project aims to perform data analysis and data engineering on the Uber NYC TLC data using Google Cloud Platform services including: Cloud Storage, Compute Engine, VM instances, VPC, Mage Data Pipeline, BigQuery, and Looker Studio.
 
